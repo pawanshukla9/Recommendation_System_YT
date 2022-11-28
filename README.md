@@ -6,3 +6,5 @@
  Tools: Python (Pandas, NumPy, Sci-Kit Learn), youtube-transcript-api, Google Colab
 
  Supervisor: Dr. Prashanth Ranga and Dr. Kalyani Selvarajah
+ 
+ Submitted by: Pawan Shukla and Tejaswini Mandava
